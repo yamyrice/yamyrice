@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=600&vCenter=true&color=4E3076&width=435&lines=I+must+be+the+reason+why;You+have+given+up+your+smiles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=500&vCenter=true&color=4E3076&width=435&lines=I+must+be+the+reason+why;You+have+given+up+your+smiles)](https://git.io/typing-svg)
 
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyrice&color=4e3076&style=for-the-badge&label=The+Heartbreaking&abbreviated=true"/>
