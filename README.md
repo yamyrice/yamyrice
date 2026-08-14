@@ -19,3 +19,19 @@ Here are some ideas to get you started:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyrice&color=4e3076&style=for-the-badge&label=The+Heartbreaking&abbreviated=true"/>
 </div>
 
+<img align="left" width="400" src="https://raw.githubusercontent.com/yamyrice/yamyrice/refs/heads/main/%E5%8A%A8%E7%94%BB10.gif"/>
+<div align="left">
+
+<div>⠀⠀⠀⠀⠀⠀⠀</div>
+<div>⠀⠀⠀⠀⠀⠀⠀</div>
+<div>⠀⠀⠀⠀⠀⠀⠀</div>
+
+<div align="center">
+  
+$${\color{#4e3076} 鸦米|yamyrice}$$<br>
+$${\color{#4e3076} \space she/they \space }$$<br>
+$${\color{#4e3076} LimbusCompany \space }$$<br>
+$${\color{#4e3076}❧ოᦂღდ♡ \space Heathcathy \space ♡დღᦂო☙}$$<br>
+$${\color{#4e3076} C+H|DNKUID}$$<br>
+
+</div>
