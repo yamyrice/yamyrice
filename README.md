@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+![visitors](https://visitor-badge.glitch.me/badge?yamyrice=page.id&left_color=green&right_color=red)
 
 <!--
 **yamyrice/yamyrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
