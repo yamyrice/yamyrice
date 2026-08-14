@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyrice&color=4e3076&style=for-the-badge&label=The+Heartbreaking&abbreviated=true"/>
 </div>
 
-<img align="left" width="400" src="https://raw.githubusercontent.com/yamyrice/yamyrice/refs/heads/main/%E5%8A%A8%E7%94%BB10.gif"/>
+<img align="left" width="300" src="https://raw.githubusercontent.com/yamyrice/yamyrice/refs/heads/main/%E5%8A%A8%E7%94%BB10.gif"/>
 <div align="left">
 
 <div>⠀⠀⠀⠀⠀⠀⠀</div>
