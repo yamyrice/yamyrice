@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![visitors](https://visitor-badge.glitch.me/badge?yamyrice=page.id&left_color=green&right_color=red)
-
 <!--
 **yamyrice/yamyrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=600&vCenter=true&color=4E3076&width=435&lines=I+must+be+the+reason+why;You+have+given+up+your+smiles)](https://git.io/typing-svg)
+
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamyrice&color=4e3076&style=for-the-badge&label=The+Heartbreaking&abbreviated=true"/>
+</div>
+
